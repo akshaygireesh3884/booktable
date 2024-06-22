@@ -3,7 +3,7 @@ import axios from 'axios';
 import { log } from 'console';
 
 // Replace with your OpenWeatherMap API key
-const apiKey = '016a9bc34cc7d535dc8062d6cb7bcb7e';
+const apiKey = 'test';
 
 const baseUrl = 'http://api.openweathermap.org/data/2.5/weather';
 
